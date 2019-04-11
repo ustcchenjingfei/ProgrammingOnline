@@ -8,12 +8,14 @@ import sys
 
 while True:
     try:
-        n = int(sys.stdin.readline())
+        # n = int(sys.stdin.readline())
+        n = int(input())
 
         array = []
 
         for i in range(0, n):
-            a = sys.stdin.readline()
+            # a = sys.stdin.readline()
+            a = input()
             array.append(int(a))
 
         b = list(set(array))
