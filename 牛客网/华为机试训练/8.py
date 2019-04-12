@@ -9,7 +9,7 @@ adict = {}
 while n > 0:
     s = input()
     a, b = s.split()
-    a = int(a)
+    a = int(a)  # 此处key也要转为int，否则会不通过
     b = int(b)
     if a in adict:
         adict[a] = adict[a] + b
