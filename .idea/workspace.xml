@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd296e6-6362-4ea9-8fe3-33aa95db659b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7bd296e6-6362-4ea9-8fe3-33aa95db659b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,14 +21,14 @@
         <counts>
           <entry key="ipynb" value="1" />
           <entry key="md" value="1" />
-          <entry key="py" value="16" />
+          <entry key="py" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IPNB" value="1" />
           <entry key="Markdown" value="1" />
-          <entry key="Python" value="16" />
+          <entry key="Python" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -77,6 +75,7 @@
         <option value="$PROJECT_DIR$/Python100例（菜鸟教程）/30.py" />
         <option value="$PROJECT_DIR$/Python100例（菜鸟教程）/21.py" />
         <option value="$PROJECT_DIR$/Python100例（菜鸟教程）/22.py" />
+        <option value="$PROJECT_DIR$/GUI编程/Tkinter模块/知识点.py" />
       </list>
     </option>
   </component>
@@ -322,6 +321,9 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Python100例（菜鸟教程）/4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GUI编程/Tkinter模块/知识点.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
