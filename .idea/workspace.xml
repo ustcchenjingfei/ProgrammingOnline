@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bd296e6-6362-4ea9-8fe3-33aa95db659b" name="Default Changelist" comment="" />
+    <list default="true" id="7bd296e6-6362-4ea9-8fe3-33aa95db659b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +15,8 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="1" />
-          <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -79,10 +81,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-77" />
-    <option name="y" value="59" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
     <option name="width" value="1456" />
-    <option name="height" value="912" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -97,6 +99,17 @@
               <item name="ProgrammingOnline" type="b2602c69:ProjectViewProjectNode" />
               <item name="ProgrammingOnline" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="ProgrammingOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProgrammingOnline" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProgrammingOnline" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI编程" type="462c0819:PsiDirectoryNode" />
+              <item name="Tkinter模块" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -104,7 +117,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../All" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -220,7 +233,7 @@
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1456" height="916" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2496474" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23624824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -269,13 +282,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python100例（菜鸟教程）/q.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Python100例（菜鸟教程）/q.ipynb" />
     <entry file="file://$PROJECT_DIR$/Python100例（菜鸟教程）/23.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
